@@ -16,6 +16,6 @@ using CTEs, window functions, self-joins, and ALTER TABLE.
 
 ## How to Run
 1. Import `layoffs.csv` into a MySQL database
-2. Run `Data_cleaning_project_fixed.sql`
+2. Run `data_cleaning_project.sql`
 3. Query `layoffs_staging2` for the clean data
 ```
