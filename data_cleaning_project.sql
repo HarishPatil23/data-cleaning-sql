@@ -28,7 +28,6 @@ SELECT * FROM world_layoffs.layoffs;
 # First let's check for duplicates
 
 
-
 SELECT *
 FROM world_layoffs.layoffs_staging
 ;
@@ -253,7 +252,6 @@ FROM world_layoffs.layoffs_staging2;
 -- I like having them null because it makes it easier for calculations during the EDA phase
 
 -- so there isn't anything I want to change with the null values
-
 
 
 
